@@ -9,5 +9,5 @@
 - [【basic 05】05.双指针](https://lucifer.ren/blog/2020/05/26/91algo-basic-05.two-pointer/)
 
 ### 题目
-- [【day 01】66.加一](https://github.com/chen-liang/91algroithm/blob/master/day1/leetcode%E9%A2%98%E7%9B%AE%E4%B8%8E%E7%AD%94%E6%A1%88.md#%E7%AD%94%E6%A1%88-2)
-- [【day 02】66.加一](https://github.com/chen-liang/91algroithm/blob/master/day1/leetcode%E9%A2%98%E7%9B%AE%E4%B8%8E%E7%AD%94%E6%A1%88.md#%E7%AD%94%E6%A1%88-2)
+- [【day 01】66.加一](https://github.com/leetcode-pp/91alg-1/issues/1#issuecomment-636883697)
+- [【day 02】]()
