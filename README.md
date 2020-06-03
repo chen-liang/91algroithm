@@ -10,4 +10,4 @@
 
 ### 题目
 - [【day 01】66.加一](https://github.com/leetcode-pp/91alg-1/issues/1#issuecomment-636883697)
-- [【day 02】]()
+- [【day 02】](https://github.com/leetcode-pp/91alg-1/issues/15#issuecomment-637651551)
