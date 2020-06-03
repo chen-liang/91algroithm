@@ -107,7 +107,7 @@ public:
 ### 代码思路
 使用快慢指针方法。慢指针每次走1步，快指针每次走2布，同时从起点出发，那么快指针所走路程是慢指针的两倍。假设链表有环，链表起点到环路入口距离为x,相遇点距离环入口为y，d，那么环路长度c=y+d。设快指针走了n圈环路。则2(x+y)=x+y+n* c，化简得，x=d+(n-1)* c，那么慢指针从头指针开始走x个距离与快指针从相遇点走d+(n-1)* c距离相等，即两指针会在环路入口相遇。
 
-<div align=center><img width="500" height="300" src="https://media.giphy.com/media/ekSKZLVnEYOuKmkEQq/giphy.gif"/></div>
+![](https://media.giphy.com/media/ekSKZLVnEYOuKmkEQq/giphy.gif#pic_center)
 
 ```c++
 /**
