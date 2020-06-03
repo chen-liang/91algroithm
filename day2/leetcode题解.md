@@ -76,6 +76,75 @@ public:
     }
 };
 ```
+
+## 142.[环形链表||](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+### 题目
+为了表示给定链表中的环，我们使用整数 pos 来表示链表尾连接到链表中的位置（索引从 0 开始）。 如果 pos 是 -1，则在该链表中没有环。
+说明：不允许修改给定的链表。
+
+### 示例 1：
+```
+输入：head = [3,2,0,-4], pos = 1
+输出：tail connects to node index 1
+解释：链表中有一个环，其尾部连接到第二个节点。
+```
+### 示例 2：
+```
+输入：head = [1,2], pos = 0
+输出：tail connects to node index 0
+解释：链表中有一个环，其尾部连接到第一个节点。
+```
+### 示例 3：
+```
+输入：head = [1], pos = -1
+输出：no cycle
+解释：链表中没有环。
+```
+### 进阶：
+- 你是否可以不用额外空间解决此题？
+
+
+### 代码思路
+使用快慢指针方法。慢指针每次走1步，快指针每次走2布，同时从起点出发，那么快指针所走路程是慢指针的两倍。假设链表有环，链表起点到环路入口距离为x,相遇点距离环入口为y，d，那么环路长度c=y+d。设快指针走了n圈环路。则2(x+y)=x+y+n* c，化简得，x=d+(n-1)* c，那么慢指针从头指针开始走x个距离与快指针从相遇点走d+(n-1)* c距离相等，即两指针会在环路入口相遇。
+
+<div align=center><img width="500" height="300" src="https://media.giphy.com/media/ekSKZLVnEYOuKmkEQq/giphy.gif"/></div>
+
+```c++
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode *detectCycle(ListNode *head) {
+        ListNode *slow=head;      
+        ListNode *fast=head;
+        while(fast!=NULL&&fast->next!=NULL)   //没有环的退出条件。fast->next!=NULL是为了fast->next->next存在
+        {
+            slow=slow->next;
+            fast=fast->next->next;      
+            if(slow==fast)                    //找到相遇点
+            {
+                slow=head;                    
+                while(slow!=fast)             //找到入环点
+                
+                {
+                    slow=slow->next;
+                    fast=fast->next;           
+                }
+                return slow;
+            }        
+        }
+        return NULL;
+    }
+};
+```
 #### 复杂度分析
-- 时间复杂度：O(n)，只需要一次扫描。
+- 时间复杂度：O(n),取决于x与c的大小。若x>>c，则为O(n^2)
 - 空间复杂度:O(1)
+
+
