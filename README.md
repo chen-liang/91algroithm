@@ -13,3 +13,4 @@
 - [【day 02】75.颜色分类](https://github.com/leetcode-pp/91alg-1/issues/15#issuecomment-637651551) 双指针，数组
 - [【day 03】1381.设计一个支持增量操作的栈](https://github.com/leetcode-pp/91alg-1/issues/18#issuecomment-638268279) 数组，栈
 - [【day 04】394.字符串解码](https://github.com/leetcode-pp/91alg-1/issues/20#issuecomment-638800071) 栈（括号匹配）
+- [【day 05】232.用栈实现队列](https://github.com/leetcode-pp/91alg-1/issues/21#issuecomment-639573715)
