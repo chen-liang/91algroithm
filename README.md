@@ -15,6 +15,6 @@
 - [【day 02】75.颜色分类](https://github.com/leetcode-pp/91alg-1/issues/15#issuecomment-637651551) 双指针，数组
 - [【day 03】1381.设计一个支持增量操作的栈](https://github.com/leetcode-pp/91alg-1/issues/18#issuecomment-638268279) 数组，栈
 - [【day 04】394.字符串解码](https://github.com/leetcode-pp/91alg-1/issues/20#issuecomment-638800071) 栈（括号匹配）
-- [【day 05】232.用栈实现队列](https://github.com/leetcode-pp/91alg-1/issues/21#issuecomment-639573715)
-- [【day 06】380. 常数时间插入、删除和获取随机元素](https://github.com/leetcode-pp/91alg-1/issues/23#issuecomment-640155651)
-- [【day 07】206. 反转链表]()
+- [【day 05】232.用栈实现队列](https://github.com/leetcode-pp/91alg-1/issues/21#issuecomment-639573715) 栈、队列
+- [【day 06】380. 常数时间插入、删除和获取随机元素](https://github.com/leetcode-pp/91alg-1/issues/23#issuecomment-640155651) 数组、哈希表
+- [【day 07】206. 反转链表]() 三指针、栈
