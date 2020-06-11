@@ -20,4 +20,4 @@
 - [【day 07】206. 反转链表](https://github.com/azl397985856/leetcode/blob/master/problems/206.reverse-linked-list.md) 三指针、栈、递归
 - [【day 08】430. 扁平化多级链表](https://leetcode-solution.cn/everyday/200) 栈、递归、树、DFS
 - [【day 09】109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/solution/di-gui-yi-ba-suo-by-zstar01/) 三指针、栈、递归
-- [【day 10】10. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/shuang-zhi-zhen-ha-xi-by-zstar01/) 栈、递归、树、DFS
+- [【day 10】10. 相交链表](https://github.com/leetcode-pp/91alg-1/issues/28#issuecomment-641733401) 双指针
