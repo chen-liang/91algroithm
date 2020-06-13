@@ -5,7 +5,7 @@
 给你位于列表第一级的头节点，请你扁平化列表，使所有结点出现在单级双链表中。
 
 ## 示例 1：
-```
+
 输入：head = [1,2,3,4,5,6,null,null,null,7,8,9,10,null,null,11,12]
 输出：[1,2,3,7,8,11,12,9,10,4,5,6]
 解释：
@@ -16,7 +16,7 @@
 扁平化后的链表如下图：
 
 ![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/multilevellinkedlistflattened.png)
-```
+
 ## 示例 2：
 ```
 输入：head = [1,2,null,3]
