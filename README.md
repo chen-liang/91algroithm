@@ -22,3 +22,4 @@
 - [【day 09】109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/solution/di-gui-yi-ba-suo-by-zstar01/) 三指针、栈、递归
 - [【day 10】160. 相交链表](https://github.com/leetcode-pp/91alg-1/issues/28#issuecomment-641733401) 双指针
 - [【day 11】142.环形链表ii](https://github.com/leetcode-pp/91alg-1/issues/29#issuecomment-642583692)
+- [【day 12】146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/solution/shuang-lian-biao-ha-xi-biao-by-zstar01/)
