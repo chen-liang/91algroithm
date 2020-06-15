@@ -24,3 +24,4 @@
 - [【day 11】142.环形链表ii](https://github.com/leetcode-pp/91alg-1/issues/29#issuecomment-642583692)
 - [【day 12】146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/solution/shuang-lian-biao-ha-xi-biao-by-zstar01/)
 - [【day 13】104. 二叉树的最大深度](https://github.com/leetcode-pp/91alg-1/issues/32#issuecomment-643620727)
+- [【day 14】100. 相同的树](https://github.com/leetcode-pp/91alg-1/issues/34#issuecomment-643729521)
