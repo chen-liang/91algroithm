@@ -27,4 +27,4 @@
 - [【day 14】100. 相同的树](https://github.com/leetcode-pp/91alg-1/issues/34#issuecomment-643729521)
 - [【day 15】129. 求根到叶子节点数字之和](https://github.com/leetcode-pp/91alg-1/issues/35#issuecomment-643863834)
 - [【day 16】513. 找树左下角的值](https://github.com/leetcode-pp/91alg-1/issues/37#issuecomment-644557908)
-- [【day 17】144. 二叉树的前序遍历]()
+- [【day 17】144. 二叉树的前序遍历](https://lucifer.ren/blog/2020/02/08/%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%93%E9%A2%98/)
