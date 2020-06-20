@@ -28,3 +28,5 @@
 - [【day 15】129. 求根到叶子节点数字之和](https://github.com/leetcode-pp/91alg-1/issues/35#issuecomment-643863834)
 - [【day 16】513. 找树左下角的值](https://github.com/leetcode-pp/91alg-1/issues/37#issuecomment-644557908)
 - [【day 17】144. 二叉树的前序遍历](https://lucifer.ren/blog/2020/02/08/%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%93%E9%A2%98/)
+- [【day 18】124. 二叉树中的最大路径和](https://github.com/azl397985856/leetcode/blob/b1e1f5f55bc4ad3004cfafb6415a3e9de35c131a/problems/124.binary-tree-maximum-path-sum.md)
+- [【day  19】1.两数之和](https://github.com/leetcode-pp/91alg-1/issues/40#issuecomment-646613516)
