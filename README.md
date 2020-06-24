@@ -32,3 +32,4 @@
 - [【day  19】1.两数之和](https://github.com/leetcode-pp/91alg-1/issues/40#issuecomment-646613516)
 - [【day 20】447.回旋镖的数量](https://github.com/leetcode-pp/91alg-1/issues/41#issuecomment-647002357)
 - [【day 21】36. 有效的数独](https://github.com/leetcode-pp/91alg-1/issues/43#issuecomment-647124518)
+- [【day 22】645.错误的集合](https://github.com/leetcode-pp/91alg-1/issues/44#issuecomment-647545569)
