@@ -31,3 +31,4 @@
 - [【day 18】124. 二叉树中的最大路径和](https://github.com/azl397985856/leetcode/blob/b1e1f5f55bc4ad3004cfafb6415a3e9de35c131a/problems/124.binary-tree-maximum-path-sum.md)
 - [【day  19】1.两数之和](https://github.com/leetcode-pp/91alg-1/issues/40#issuecomment-646613516)
 - [【day 20】447.回旋镖的数量](https://github.com/leetcode-pp/91alg-1/issues/41#issuecomment-647002357)
+- [【day 21】36. 有效的数独](https://github.com/leetcode-pp/91alg-1/issues/43#issuecomment-647124518)
