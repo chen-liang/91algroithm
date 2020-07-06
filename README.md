@@ -36,3 +36,4 @@
 - [【day 23】面试题 04.01. 节点间通路](https://github.com/leetcode-pp/91alg-1/issues/45#issuecomment-648178243)
 - [【day 24】149.直线上最多的点数](https://github.com/leetcode-pp/91alg-1/issues/50#issuecomment-648820744)
 - [【day 25】11. 盛最多水的容器](https://github.com/leetcode-pp/91alg-1/issues/51#issuecomment-649502160)
+- [【day 26】875. 爱吃香蕉的珂珂](https://github.com/leetcode-pp/91alg-1/issues/52#issuecomment-650155495)
