@@ -37,3 +37,5 @@
 - [【day 24】149.直线上最多的点数](https://github.com/leetcode-pp/91alg-1/issues/50#issuecomment-648820744)
 - [【day 25】11. 盛最多水的容器](https://github.com/leetcode-pp/91alg-1/issues/51#issuecomment-649502160)
 - [【day 26】875. 爱吃香蕉的珂珂](https://github.com/leetcode-pp/91alg-1/issues/52#issuecomment-650155495)
+- [【day 27】26. 删除排序数组中的重复项](https://github.com/leetcode-pp/91alg-1/issues/54#issuecomment-650523049)
+- [【day 28】167. 两数之和 II - 输入有序数组](https://github.com/azl397985856/leetcode/blob/master/problems/167.two-sum-ii-input-array-is-sorted.md)
