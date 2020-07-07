@@ -15,6 +15,6 @@
 - [进阶篇]()
 
 ### 答案
-- [基础篇]()
+- [基础篇](https://github.com/chen-liang/91algroithm/blob/master/Solution/basic.md)
 - [进阶篇]()
 
