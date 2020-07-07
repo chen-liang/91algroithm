@@ -39,3 +39,5 @@
 - [【day 26】875. 爱吃香蕉的珂珂](https://github.com/leetcode-pp/91alg-1/issues/52#issuecomment-650155495)
 - [【day 27】26. 删除排序数组中的重复项](https://github.com/leetcode-pp/91alg-1/issues/54#issuecomment-650523049)
 - [【day 28】167. 两数之和 II - 输入有序数组](https://github.com/azl397985856/leetcode/blob/master/problems/167.two-sum-ii-input-array-is-sorted.md)
+- [【day 29】42. 接雨水](https://github.com/leetcode-pp/91alg-1/issues/57#issuecomment-651000402)
+- [【day 30】面试题 17.11. 单词距离](https://github.com/leetcode-pp/91alg-1/issues/57#issuecomment-651000402)
